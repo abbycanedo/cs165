@@ -205,7 +205,7 @@
         <div class="copyright clearfix">
           <p>
             <b>BAGS</b>
-            &nbsp;&nbsp;&nbsp;&nbsp;<a href="#">User Guide</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/0B7Tsoqw6JTp8SGlTWlUtb0N6MTA/view?usp=sharing">User Guide</a>
             &nbsp;&bull;&nbsp;<a href="https://github.com/abbycanedo/cs165/blob/master/docs/diagrams/CS%20165%20ERD.pdf">ER Diagram</a>
             &nbsp;&bull;&nbsp;<a href="https://github.com/abbycanedo/cs165/blob/master/docs/diagrams/CS%20165%20Schema.pdf">Database Schema</a>
             &nbsp;&bull;&nbsp;<a href="http://bootflat.github.io/">Bootflat</a>
