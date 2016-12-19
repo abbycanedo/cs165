@@ -1,0 +1,18 @@
+.description{
+    margin: 10px 20px 20px 30px;
+}
+
+.f-right{
+	float: right;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+.thumbnail img.home{
+	max-height: 300px;
+	min-height: 300px;
+}
+
+.cart{
+	margin-top: 50px;
+}
