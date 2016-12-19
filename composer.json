@@ -9,7 +9,6 @@
         "laravel/framework": "5.2.*",
         "yajra/laravel-datatables-oracle": "~6.0",
         "intervention/image": "^2.3",
-        "pgsql": "*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
