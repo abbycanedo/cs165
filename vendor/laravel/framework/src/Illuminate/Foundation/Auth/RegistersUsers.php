@@ -26,18 +26,18 @@ trait RegistersUsers
      */
     public function showAdminRegistrationForm()
     {
-        // if (property_exists($this, 'registerView')) {
-        //     return view($this->registerView);
-        // }
+        if (property_exists($this, 'registerView')) {
+            return view($this->registerView);
+        }
 
         return view('auth.register.admin');
     }
 
     public function showCustomerRegistrationForm()
     {
-        // if (property_exists($this, 'registerView')) {
-        //     return view($this->registerView);
-        // }
+        if (property_exists($this, 'registerView')) {
+            return view($this->registerView);
+        }
 
         return view('auth.register.customer');
     }
