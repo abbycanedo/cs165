@@ -1,5 +1,9 @@
-4,one,admin,one@admin.com,$2y$10$oelHCVsp.inJjNOSCbS5MO0t6dhcAO9CaX5sEI0/qdvjpEZ1Ks5Im,t,ZRFYsjpCwAI2g5WY9uLCN8NTHRefyLBaLJaqn3D9ug3PGMUhxNeEJcfRUELq,12/18/2016 1:45,12/18/2016 1:49
-3,Gigi,Hadid,gigi@hadid.com,$2y$10$GsHYCFx/Q8ROLySHLGOZvuKx./5I/XuoB32V8s6Y9oAI3fbSz4106,f,rXOdUsO94PWqUGMLRd5sJaaaYHR6IaUBjGgMe0VF0JaH5rLGwOuqIV1mojoa,12/16/2016 5:28,12/18/2016 10:19
-2,Kendall,Jenner,kendall@jenner.com,$2y$10$6dHwR16Y7xInMZrXXKovRuAOFLK8UhTmdP7dKejmri2IakOtyuw2C,f,UPQcEejsgR9PSeIbniopKzKWEeNhaEH8HSe77QleJwArjwxykAC6IRHgb01u,12/15/2016 19:12,12/18/2016 17:08
-1,Abby,Canedo,abby@canedo.com,$2y$10$lx1Sz9toE98BkIq1kERMquHYUvlS05JrvGe64Ognq55/TSbmXt6DK,t,Q4HTvTk5QKMuoKBkCKBYtb08KOM5xg2dOlwnsOdMogMBh1663BwVBdqWstPc,12/15/2016 18:38,12/19/2016 3:35
-5,Adriana,Lima,adriana@lima.com,$2y$10$T8R7ce.Dqv5JF23.Jy5hDOzuFnxDI1XaJT/iJz.H6INtuOhjlDabS,f,,12/19/2016 3:37,12/19/2016 3:37
+id,firstname,lastname,email,password,isadmin,remember_token,created_at,updated_at
+3,Admin,User,admin@user.com,$2y$10$Qvp8o42Fs4EgcfMgfp/Z5uhOwKbqXasVfzy26xE8YgB.t43U49BlG,t,N4cg8RH9C3B5J1Qc7WIVCCv30SnIvGTpf0eYxNEdyTirgk3078LHKSIjIoRc,2016-12-19 14:29:26,2016-12-19 14:30:54
+4,Abbygaile,Canedo,abbygaile@canedo.com,$2y$10$RgLsfwx1txuVk9m7RNZF6eNtHKeYbikDKHW37.z5ehCjXQfFjZxGG,t,DwlzlSpGhaJYDxGK0dOvWSiGwlOyka0V5hDhmGef1Tyzf81VtabwA4MlG1Cs,2016-12-19 14:31:52,2016-12-19 14:33:30
+2,Kendall,Jenner,kendall@jenner.com,$2y$10$LGIGzEfseFQ.LrJWCckOM.uijWahv6zlhEIVl7.j3.8Ps2q2zS5YK,f,csS2DTAiWj59fbrlRcnNDqZUOcaxaiay8aDaHqjeZpKZwMIDY4lIN4gBktJ4,2016-12-19 13:40:50,2016-12-19 14:34:58
+5,Abby Joyce,Canedo,aj@canedo.com,$2y$10$WbIGJgiIenDFVXMG4AMax.i1P/6F7ySwSGk/GBR8UJh2O0zVPQ4RG,t,c8SEmV1jvinw80fOmiPbj5YymYjk8lVqGRsTnFRzJaeoY7Ay1SOgxKGBLw6X,2016-12-19 14:37:08,2016-12-19 14:39:35
+6,Gigi,Hadid,gigi@hadid.com,$2y$10$M2Ej5YtBlcCTtpUlGDPwJOSB0.JXevVQxAvTzth8Qq5xBIcIDNIwO,f,Hs5QciveemDdVpFSd3nGViyzG5OCkJJnPpOZOTI6ohrsSvZie3FvxcObeqfH,2016-12-19 14:40:16,2016-12-19 14:42:22
+7,User,Admin,user@admin.com,$2y$10$VV9IoEeyN/K0nl2lB3woXO8jT9cw.vfu8ZNPyccls5dkqZjOvUAuS,t,Ash5kEzHLkApzf8EX8ohINunJENgcwy8oP0ZcG246wknlgJIQvlgqDO9nB1w,2016-12-19 14:43:05,2016-12-19 14:44:50
+8,Adriana,Lima,adriana@lima.com,$2y$10$qJ.KJ285iiecHC3hxTFvVOEpM395tFFLud/6xYsDEReas4Q1hFVru,f,rsRVsVhdyiSsPHSZ3mAx362C5Ar1WF9TauyZmRJbo7bPYyFZxfmay5Rw1Ywq,2016-12-19 14:45:42,2016-12-19 14:48:08
+1,Abby,Canedo,abby@canedo.com,$2y$10$h5q0Fbtg9XOEumtWcTF3ruSBrVFXqRU67Tg6ZOT8M6DfcaeJxvETa,t,nU0XIfH5nDZB2qEwndK1CQoO5oIDKHoJnJCfwir9btRZD5LxED6wxaQyAurw,2016-12-19 13:30:58,2016-12-19 14:49:49
